@@ -5,12 +5,12 @@ function App() {
     {
       id: "rjv01",
       text:"Welcome to My Personal Portfolio ",
-      profilePic: "../src/assets/rajProfile1.jpg",
+      profilePic: "../rajProfile1.jpg",
       // content1: "Welcome to My Personal Portfolio",
     },
     {
       id: "About Me",
-      profilePic: "https://media.licdn.com/dms/image/v2/D4D03AQFJQtILZr-gvw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1703257283843?e=1753315200&v=beta&t=6ICGUngp4lmnBxh-8mWuGVtXpC5ywUtEgr4qOYCulTY",
+      profilePic: "../linkedinRajPic.jpg",
       content1:[
         <>
         Hey there, I'm in my <strong className="text-green-400">Final year of Btech(CSE)</strong>. I’m someone who loves creating things independently and learning from my mistakes. <strong>I’m not afraid</strong> to ask for help when needed, because I believe that’s part of 
@@ -25,7 +25,7 @@ function App() {
     },
     {
       id: "School College Skills",
-      profilePic: "../src/assets/RajProfilePic.png",
+      profilePic: "../RajProfilePic.png",
       content1:[
         <>
         I am a <strong className="text-green-400">KV student</strong> who studied KV ONGC in Chandkheda, Ahmedabad, for both my <strong className="text-green-400">10th(83%) and 12th(81.1%) grades</strong>.  A little info: Despite the fact that my grades didn't always reflect it, I've always loved math.  However, I've always done well in science, which is a topic I really adore. Even though I'm not a state champion in any sport, I enjoy playing cricket and football, especially in my spare time and at college functions.I'm currently t in the last year of <strong className="text-green-400">Vellore Institute of Technology's B.Tech program in computer science and engineering in Bhopal (2021-2025)</strong>.  I've learnt the majority of my knowledge on my own using YouTube and other  resources(<strong>friends</strong>).  Despite this, I now have a <strong className="text-green-400">CGPA of 8.51</strong> and <strong>have passed</strong> all of my college examinations without any backlogs or supplemental tests. I like <strong>Parallel Computing and Computer Vision</strong> just like I liked my school crush – something I admire from a distance but haven’t had a deep <strong>conversation</strong> with yet.
@@ -39,7 +39,7 @@ function App() {
     },
     {
     id: "Projects",
-    profilePic: "../src/assets/github-profile-old.jpg",
+    profilePic: "../github-profile-old.jpg",
     content1: [
       <>
         <strong className="text-green-400">EventPro (HTML, CSS, Django):</strong> A web platform designed to collect and display details of all events happening in our college. It also manages the activities of different college clubs.{" "}
